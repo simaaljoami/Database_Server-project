@@ -17,4 +17,7 @@ echo " التحقق من حالة الخدمة..."
 sudo systemctl status mysql
 
 echo " تم تثبيت خادم قاعدة البيانات MySQL بنجاح!"
+<<<<<<< HEAD
 
+=======
+>>>>>>> acea0636b929297fc87373bbcebf7e8ca44edd30
